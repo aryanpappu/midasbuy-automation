@@ -1,0 +1,2 @@
+# midasbuy-automation
+This project is for doing automation with selenium and java.  Using this project you can  avoid manual step of doing multiple time login and signup process. I had written this code to manipulate VIP center feature of midasbuy and earn free UC.  Using this sample code, you can modify according  to  your need. Like youtube subscribe , facebook like , etc. This code is just for educational proposes . Please read terms and conditions of website where you are applying this method.
